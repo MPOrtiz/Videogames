@@ -1,0 +1,1 @@
+The online store Ice sells video games worldwide. User and expert reviews, genres, platforms, and historical sales data are available from open sources. The company would like to identify patterns that determine whether a game is successful or not. This will help them spot promising projects and plan future advertising campaigns.
